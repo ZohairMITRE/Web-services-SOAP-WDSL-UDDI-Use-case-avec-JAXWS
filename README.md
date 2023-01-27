@@ -9,7 +9,7 @@
 ### 2. Déploiment de Web service avec un simple Serveur JaxWS
 ### 3. Consultation et analyse de WSDL avec un Browser HTTP
 ### 4. Tester les opérations du web service avec un outil
-comme SoapUI ou Oxygen
+    • comme SoapUI ou Oxygen
 ### 5. Création d'un Client SOAP Java
 ### 6. Création d'un Client SOAP Dot Net
 ### 7. Création d'un Client SOAP PHP
